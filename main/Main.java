@@ -39,8 +39,7 @@ public class Main {
         // Task 4: Print list of users having both reader and creator roles
         service.addUserToRole(2, 4);
         service.getUsersWithRoles(1, 4);
-        
-        Employee t3 = service.getEmployeeById(1);
+    
         
         
      
